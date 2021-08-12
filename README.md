@@ -59,7 +59,7 @@ processManager.forceKillProcessWithPid(1234);
 
 ## 📖 Documentation
 |        Property        |Parameter type|Return type|Description|Default parameter value|
-|----------------|-------------------------------|-----------------------------|--------|
+|----------------|-------------------------------|----|-------------------------|--------|
 |forceKillProcessWithPid |`long`|`void`|Force kill process with a PID| - |
 
 ## 🚩 Changelog
